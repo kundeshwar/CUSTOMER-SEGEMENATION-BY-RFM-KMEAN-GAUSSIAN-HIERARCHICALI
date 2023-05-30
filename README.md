@@ -68,6 +68,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-This project was completed as part of [your name]'s project work. Special thanks to [mention any contributors or external resources used].
+This project was completed as part of Kundeshwar Pundalik's project work. 
 
 
