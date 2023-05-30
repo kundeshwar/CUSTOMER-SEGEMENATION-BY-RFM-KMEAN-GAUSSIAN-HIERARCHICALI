@@ -33,6 +33,7 @@ To run the code for this project, make sure you have the following dependencies 
 - nltk
 
 To install the required dependencies, run the following command:
+pip install -r requirements.txt
 
 ## Dataset
 
